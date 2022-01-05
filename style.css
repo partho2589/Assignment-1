@@ -1,10 +1,30 @@
-body{font-family: 'Poppins', sans-serif;}
-.fast-part{
+body{font-family: 'Poppins', sans-serif;
+border: 0ch;}
+section{
     display : flex;
-    width: 100%;}
-    .images-part{
-        position: 50%;
+    padding: 110px;
     }
-   
+.hafe-width{
+    width: 50%;}
 
+.hafe-width img{
+    width: 80%;}
+h1{
+    font-size: 50px;}    
+.mission-color{color: orange;}    
+.link{
+    background-image: linear-gradient(orange,tomato);
+    padding: 5px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}  
+.border{
+    border-left:4px solid;
+    border-image-slice: 1;
+    border-color: rgb(37, 180, 49);
+}
+.year{color: sandybrown;}
+.text-center{
+    text-align: center;
+}
 
