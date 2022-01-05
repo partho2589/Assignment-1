@@ -1,0 +1,10 @@
+body{font-family: 'Poppins', sans-serif;}
+.fast-part{
+    display : flex;
+    width: 100%;}
+    .images-part{
+        position: 50%;
+    }
+   
+
+
