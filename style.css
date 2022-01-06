@@ -1,5 +1,5 @@
 body{font-family: 'Poppins', sans-serif;
-border: 0ch;}
+border: 0;}
 .top-part{display: flex;
 }
 .hafe-width{
@@ -46,3 +46,16 @@ h1{
     .fourth-part{
         display: flex;
     }
+    footer{background-color: black;
+    text-align: center;}
+    .colore-m{color: white;}
+    .color-y{color: cyan;}
+    .hard-color{color: white;
+    }
+    .last-para{
+        display: flex;
+    }
+   #struggle{
+       box-shadow: 10px 10px 10px royalblue;
+       border-radius: 10px;
+   }
