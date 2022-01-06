@@ -1,9 +1,7 @@
 body{font-family: 'Poppins', sans-serif;
 border: 0ch;}
-section{
-    display : flex;
-    padding: 110px;
-    }
+.top-part{display: flex;
+}
 .hafe-width{
     width: 50%;}
 
@@ -23,8 +21,21 @@ h1{
     border-image-slice: 1;
     border-color: rgb(37, 180, 49);
 }
-.year{color: sandybrown;}
-.text-center{
-    text-align: center;
-}
-
+.three{
+    display: flex;
+    padding: 7px;}
+.madel-part{
+    display: flex;}
+#my{text-align: center;}
+.year{color: rgb(37, 180, 49);}
+.madel-part img{
+    width: 80px;}
+.secent-all-box{
+    box-shadow: 10px 10px 20 rgb(255, 249, 249);
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;}
+    #goals{
+        background-color: rgb(221, 194, 253);
+        border-radius: 5px;
+    }
